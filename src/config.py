@@ -24,6 +24,6 @@ EXCLUDE_LINKS_START = [
     "https://www.pinterest.com/"
 ]
 
-CHROMEDRIVER_PATH = "./chromedriver"
+CHROMEDRIVER_PATH = "./chromedriver.exe"
 HEADLESS_MODE = True
 # SAVE_FILE_PATH = input("what is your file name to save: ")
